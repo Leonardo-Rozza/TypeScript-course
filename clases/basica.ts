@@ -23,5 +23,5 @@
   //console.log(atman);
 
   //console.log(atman.bio());
-  console.log(Avenger.avgAge());
+  //console.log(Avenger.avgAge());
 })();
